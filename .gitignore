@@ -1,0 +1,5 @@
+# Originals and plain-text content never leave this machine; only encrypted content/ is published
+photos-src/
+demo-src/
+mockup.html
+.DS_Store
